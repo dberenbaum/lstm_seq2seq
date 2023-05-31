@@ -1,4 +1,4 @@
 optim_params:
-  lr: 0.003
+  lr: 0.004
   momentum: 0.01
 latent_dim: 32
